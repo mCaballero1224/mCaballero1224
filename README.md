@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hello/Hola/こんにちは
+
+Location: Oregon
+Education: Bachelor's (In Progress, 4th yr)
+Interests: Low-level programming, teaching, cybersecurity research
+Status: Seeking collaboration
 
 - 🔭 I’m currently working on a [network monitor](https://github.com/mCaballero1224/CS372/netmonitor) using Python.
 - 🌱 I’m currently learning C by going through [The C Programming Language](https://github.com/mCaballero1224/the_c_programming_language) by Brian Kerringhan and Dennis Ritchie.
