@@ -10,9 +10,9 @@
 
 ## What I'm Up To
 
-- I’m currently working on a [network monitor](https://github.com/mCaballero1224/CS372/netmonitor) using Python.
-- I’m currently learning C by going through [The C Programming Language](https://github.com/mCaballero1224/the_c_programming_language) by Brian Kerringhan and Dennis Ritchie.
-- I’m looking to collaborate on small projects.
+- Currently learning C by going through [The C Programming Language](https://github.com/mCaballero1224/the_c_programming_language) by Brian Kerringhan and Dennis Ritchie.
+- Deciding on an open source project to contribute to learn more about open source and git.
+- Loking to collaborate on small projects.
 
 ## Contact
 
