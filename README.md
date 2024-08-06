@@ -20,4 +20,4 @@ Reach me at my [site](https://mcaballero.dev)!
  
 ## Fun Fact
 
-According to ["The Face of Anonymouse (2021)"](https://youtu.be/R8h-fPCvqAg?t=1136) from Storyline Entertainment, the Guy Fawkes masks were chosen due to their availability, as it seemed it was overestimated how popular the masks would be after the movie "V for Vendetta" had debuted. 
+According to ["The Face of Anonymous (2021)"](https://youtu.be/R8h-fPCvqAg?t=1136) from Storyline Entertainment, the Guy Fawkes masks were chosen by the group due to their availability, as it seemed it was overestimated how popular the masks would be after the movie "V for Vendetta" had debuted. 
