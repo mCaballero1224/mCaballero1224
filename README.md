@@ -7,17 +7,15 @@
 - Education: Bachelor's (In Progress, 4th yr)
 - Interests: Low-level programming, teaching, cybersecurity research
 - Status: Seeking collaboration
+- Fun Fact: I've never broken a bone, but I have torn a good number of tendons.
 
 ## What I'm Up To
 
-- Currently learning C by going through [The C Programming Language](https://github.com/mCaballero1224/the_c_programming_language) by Brian Kerringhan and Dennis Ritchie.
-- Deciding on an open source project to contribute to learn more about open source and git.
-- Loking to collaborate on small projects.
+- Reading through the [Linux Programming Interface](https://man7.org/tlpi/) to better familiarize myself with Linux/Unix/POSIX.
+- Cutting my teeth on open source by reading through Neovim documentation.
+- Seeking jolly co-operation!
 
 ## Contact
 
 Reach me at my [site](https://mcaballero.dev)!
- 
-## Fun Fact
 
-According to ["The Face of Anonymous (2021)"](https://youtu.be/R8h-fPCvqAg?t=1136) from Storyline Entertainment, the Guy Fawkes masks were chosen by the group due to their availability, as it seemed it was overestimated how popular the masks would be after the movie "V for Vendetta" had debuted. 
