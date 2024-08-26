@@ -1,7 +1,6 @@
 # Hello/Hola/こんにちは
 
 ## About Me
-- Location: Oregon
 - Education: Bachelor's (In Progress, 4th yr)
 - Interests: Low-level programming, teaching, cybersecurity research
 - Status: Seeking jolly co-operation!
