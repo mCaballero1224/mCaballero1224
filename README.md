@@ -7,10 +7,9 @@
 - Fun Fact: I've never broken a bone, but I have torn a good number of tendons.
 
 ## What I'm Up To
-- Reading through the [Linux Programming Interface](https://man7.org/tlpi/) to better familiarize myself with Linux/Unix/POSIX.
-- Cutting my teeth on open source by reading through Neovim documentation.
+- Working on a [site to help people learn Japanese](https://github.com/mCaballero1224/jpn.git)
+- Studying for my CompTIA Security+ certification
 
 ## Contact
 
-Reach me at my [site](https://mcaballero.dev) (undergoing a makeover)!
-
+My site's under maintenance. Check back later to see if it's back live!
